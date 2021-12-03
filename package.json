@@ -1,0 +1,35 @@
+{
+  "name": "PC-Cleaner-V2",
+  "version": "2.0.0",
+  "description": "An open source best all-in-one Windows PC cleaner.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp build",
+    "clean": "gulp cleandev",
+    "help": "gulp --tasks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XPTGR/PC-Cleaner-V2.git"
+  },
+  "keywords": [
+    "cleaner",
+    "maintenance",
+    "optimization",
+    "windows pc"
+  ],
+  "author": "XPTGR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://discord.gg/qmvWAJ3Nne"
+  },
+  "homepage": "https://github.com/XPTGR/PC-Cleaner-V2",
+  "github": "https://github.com/XPTGR/PC-Cleaner-V2",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-header": "^2.0.9",
+    "gulp-rename": "^1.4.0"
+  },
+  "dependencies": {}
+}
