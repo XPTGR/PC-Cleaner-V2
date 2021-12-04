@@ -31,7 +31,7 @@ Download the repository and look for **``"PC_cleaner-vX.X.X.bat"``** file and op
 
 Wanna see other projects I made? Or you need any help? Join today!
 
-[![Community](https://discord.com/api/guilds/906507140305412108/widget.png?style=banner3)](https://discord.gg/qmvWAJ3Nne)
+[![Community](https://discord.com/api/guilds/916645636542173226/widget.png?style=banner3)](https://discord.gg/qmvWAJ3Nne)
 
 ## License
 
@@ -41,4 +41,4 @@ PC Cleaner V2 is licensed under [GNU General Public License v3](https://opensour
 
 PC Cleaner V2 is Developed and Maintained by **[XPTGR](https://github.com/XPTGR)**
 
-[Discord](https://discord.gg/qmvWAJ3Nne) | [Discord User](https://discord.com/users/902300313652953149)
+[Discord](https://discord.gg/qH6er6xEcn5) | [Discord User](https://discord.com/users/902300313652953149)
