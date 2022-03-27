@@ -306,7 +306,7 @@ color %uicolor%
 echo #
 echo # Shutting Down...
 ping localhost -n 2 >NUL
-shutdown -s -t 10 -c "Thanks for using PC Cleaner:) | PC Will Shutdown in 5 seconds..."
+shutdown -s -t 10 -c "dsc.gg/xptgr | PC Will Shutdown in 5 seconds..."
 timeout 10
 goto exitProgram
 
@@ -340,7 +340,7 @@ color %uicolor%
 echo #
 echo # Rebooting...
 ping localhost -n 2 >NUL
-shutdown -r -t 10 -c "Thanks for using PC Cleaner:) | PC Will Reboot in 5 seconds..."
+shutdown -r -t 10 -c "dsc.gg/xptgr | PC Will Reboot in 5 seconds..."
 timeout 10
 goto exitProgram
 

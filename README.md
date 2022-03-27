@@ -1,6 +1,6 @@
 # PC Cleaner V2
 
-[![by XPTGR](https://img.shields.io/badge/by-XPTGR-blue.svg?longCache=true&style=flat-square)](https://discord.gg/qmvWAJ3Nne) ![Version](https://img.shields.io/github/release/XPTGR/PC-cleaner-V2.svg?style=flat-square) ![Downloads](https://img.shields.io/github/downloads/XPTGR/PC-Cleaner-V2/total?style=flat-square) ![Stars](https://img.shields.io/github/stars/XPTGR/PC-Cleaner-V2.svg?style=flat-square) ![License](https://img.shields.io/github/license/XPTGR/PC-Cleaner-V2.svg?style=flat-square)
+[![by XPTGR](https://img.shields.io/badge/by-XPTGR-blue.svg?longCache=true&style=flat-square)](https://dsc.gg/xptgr) ![Version](https://img.shields.io/github/release/XPTGR/PC-cleaner-V2.svg?style=flat-square) ![Downloads](https://img.shields.io/github/downloads/XPTGR/PC-Cleaner-V2/total?style=flat-square) ![Stars](https://img.shields.io/github/stars/XPTGR/PC-Cleaner-V2.svg?style=flat-square) ![License](https://img.shields.io/github/license/XPTGR/PC-Cleaner-V2.svg?style=flat-square)
 
 All-In-One Batch Script PC Maintenance and Cleaner for Windows PC
 
@@ -31,7 +31,7 @@ Download the repository and look for **``"PC_cleaner-vX.X.X.bat"``** file and op
 
 Wanna see other projects I made? Or you need any help? Join today!
 
-[![Community](https://discord.com/api/guilds/916645636542173226/widget.png?style=banner3)](https://discord.gg/qmvWAJ3Nne)
+[![Community](https://discord.com/api/guilds/957044057367007242/widget.png?style=banner3)](https://dsc.gg/xptgr)
 
 ## License
 
@@ -41,4 +41,4 @@ PC Cleaner V2 is licensed under [GNU General Public License v3](https://opensour
 
 PC Cleaner V2 is Developed and Maintained by **[XPTGR](https://github.com/XPTGR)**
 
-[Discord](https://discord.gg/qH6er6xEcn5) | [Discord User](https://discord.com/users/902300313652953149)
+[Discord](https://dsc.gg/xptgr) | [Discord User](https://discord.com/users/902300313652953149)
